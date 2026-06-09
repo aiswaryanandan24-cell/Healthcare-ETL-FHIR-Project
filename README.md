@@ -258,9 +258,6 @@ pip install -r requirements.txt
 
 The complete source code and project assets are maintained in the GitHub Enterprise repository below.
 
-**Repository URL:**  
-https://github.iu.edu/yin10/FinalProject
-
 ## Repository Includes
 
 - Python scripts for Tasks 1–5  
