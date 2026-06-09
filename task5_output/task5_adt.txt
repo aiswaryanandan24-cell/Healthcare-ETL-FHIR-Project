@@ -1,0 +1,4 @@
+MSH|^~\&|OpenEMR|IU_Health|PrimaryCareEHR|PrimaryCare|20260429111136||ADT^A01|MSG00001|P|2.5
+PID|||9d035918-b974-4996-b35f-4b913d70f9fd||Schroeder^Katherine||19511026|F|||^^Leominster^Massachusetts
+PV1||I|ICU^101^A|||||||||||||||||||||||||||||||||||||||||20260429111136
+DG1|1||D64.9^Anemia^I10||20260429111136|A

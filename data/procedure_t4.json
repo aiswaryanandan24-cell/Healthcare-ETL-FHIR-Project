@@ -1,0 +1,40 @@
+{
+    "resourceType": "Procedure",
+    "id": "306",
+    "meta": {
+        "versionId": "1",
+        "lastUpdated": "2026-04-29T15:11:13.491+00:00"
+    },
+    "status": "completed",
+    "code": {
+        "coding": [
+            {
+                "system": "http://snomed.info/sct",
+                "code": "180207008",
+                "display": "Intravenous blood transfusion of packed cells"
+            }
+        ],
+        "text": "Intravenous blood transfusion of packed cells"
+    },
+    "subject": {
+        "reference": "Patient/301"
+    },
+    "performedDateTime": "2010-12-17T00:00:00+00:00",
+    "performer": [
+        {
+            "actor": {
+                "reference": "Practitioner/304"
+            }
+        }
+    ],
+    "followUp": [
+        {
+            "text": "Follow up in 5 days - 2010-12-22"
+        }
+    ],
+    "note": [
+        {
+            "text": "Intravenous blood transfusion of packed cells administered due to Anemia. Patient tolerated the procedure well."
+        }
+    ]
+}

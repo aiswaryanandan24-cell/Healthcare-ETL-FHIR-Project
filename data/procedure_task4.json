@@ -1,0 +1,32 @@
+{
+    "resourceType": "Procedure",
+    "status": "completed",
+    "code": {
+        "coding": [
+            {
+                "system": "http://snomed.info/sct",
+                "code": "180207008",
+                "display": "Intravenous blood transfusion of packed cells"
+            }
+        ],
+        "text": "Intravenous blood transfusion of packed cells"
+    },
+    "performedDateTime": "2010-12-17T00:00:00+00:00",
+    "performer": [
+        {
+            "actor": {
+                "display": "Unknown Practitioner"
+            }
+        }
+    ],
+    "followUp": [
+        {
+            "text": "Follow up in 5 days - 2010-12-22"
+        }
+    ],
+    "note": [
+        {
+            "text": "Intravenous blood transfusion of packed cells administered due to Anemia. Patient tolerated the procedure well."
+        }
+    ]
+}

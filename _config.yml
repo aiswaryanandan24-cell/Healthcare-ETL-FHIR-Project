@@ -1,0 +1,9 @@
+theme: minima
+title: INFO-B581 Final Project
+description: Healthcare ETL Pipeline - INFO-B581 Spring 2026
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+
+header_pages: []
