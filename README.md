@@ -280,6 +280,6 @@ https://github.iu.edu/yin10/FinalProject
 
 | Name | Role |
 |---|---|
-| Zhenan Yin | ETL Lead |
-| Aiswarya Perumbilly | Procedure & Website Lead |
+| Zhenan Yin | Team Lead |
+| Aiswarya Perumbilly | ETL & Website Lead |
 | Kelli Davis | HL7 & Documentation Lead |
